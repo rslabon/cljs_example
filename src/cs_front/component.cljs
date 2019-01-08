@@ -1,4 +1,4 @@
-(ns cs-front.welcome
+(ns cs-front.component
   (:require [reagent.core :as r]))
 
 (defonce clicked-count (r/atom 0))
